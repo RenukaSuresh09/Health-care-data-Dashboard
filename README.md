@@ -19,8 +19,6 @@ Visit year (2018–2020)
 
 Source: Kaggle – Healthcare Dataset
 
-(Replace # with the actual Kaggle dataset URL if available)
-
 🎯 Objectives
 Analyze trends in inpatient vs. outpatient visits from 2018 to 2020
 
