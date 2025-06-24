@@ -1,4 +1,5 @@
-***Healthcare Data Analysis Dashboard - Power BI***
+*Healthcare Data Analysis Dashboard - Power BI*
+
 This project presents an interactive Power BI dashboard built to analyze a healthcare dataset obtained from Kaggle. The dataset includes detailed information on inpatient and outpatient visits between 2018 and 2020. The dashboard uncovers trends, patterns, and key metrics that can help understand patient flow, resource utilization, and healthcare outcomes.
 
 📁 Dataset
